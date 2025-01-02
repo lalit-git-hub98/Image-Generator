@@ -1,0 +1,10 @@
+transformers
+streamlit
+torch
+diffusers
+huggingface-hub
+python-dotenv
+numpy
+openai
+diffusers
+accelerate
